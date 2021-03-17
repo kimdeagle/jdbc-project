@@ -2,7 +2,7 @@
 
 <img src="images/ssacademy.png">
 
-__SSacademy는 JDBC를 활용한 교육센터 운영 프로그램 입니다.__
+### SSacademy는 JDBC를 활용한 교육센터 운영 프로그램 입니다.
 
 ### 특징 Feature
 + 과정 및 과목 개설, 강의 일정 관리
