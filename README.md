@@ -27,6 +27,9 @@
 <img src="images/data_structure.png" width="600">
 
 ### ▶ 담당 업무 구현 Development
++ __(관리자) 교사 계정 관리 CRUD__
++ __(교사) 평가 조회__
++ __(교육생) 평가 관리 CRUD__
 <img src="images/development.png">
 
 ### ▶ 후기 Comment
